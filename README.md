@@ -52,8 +52,7 @@ In the refactored code from the previous message, `GeometryReader` is used to dy
 
 ## Lessons Learned
 
-- Introduction to GeometryReader.
-. 
+- Introduction to GeometryReader. 
 
 
 ## API Documentation
