@@ -17,9 +17,9 @@ struct ContentView: View {
             .font(.headline)
             .foregroundColor(.white)
             .padding()
-            .frame(width: 300, height: 300, alignment: .leading)
+            .frame(width: 300, height: 300, alignment: .trailing)
             .background(.blue)
-            .position(x: geometry.size.width / 2, y: geometry.size.height / 2)
+            //.position(x: geometry.size.width / 2, y: geometry.size.height / 2)
         }
         .background(.red)
     }
